@@ -11,7 +11,7 @@ A Windows PowerShell-based cyber security tool that provides a forensic view of 
 - **Rich device metadata** — Vendor ID, Product ID, serial number, manufacturer, firmware revision, driver, service, USB class/subclass/protocol
 - **Dark forensics-themed GUI** — sortable, filterable data grid with a detail panel and event history log
 - **Export** — save results to CSV or styled HTML report
-- **Filter / search** — real-time text filter across all device fields
+- **Filter/search** — real-time text filter across all device fields
 
 ## Requirements
 
@@ -23,7 +23,7 @@ A Windows PowerShell-based cyber security tool that provides a forensic view of 
 
 ## Quick Start
 
-Double-click `Launch-USBForensics.bat`.  
+`Launch-USBForensics.bat`.  
 For full data, right-click → **Run as administrator**.
 
 ## Usage
