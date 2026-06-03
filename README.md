@@ -23,16 +23,8 @@ A Windows PowerShell-based cyber security tool that provides a forensic view of 
 
 ## Quick Start
 
-### Option 1 — Batch launcher (recommended)
-
 Double-click `Launch-USBForensics.bat`.  
 For full data, right-click → **Run as administrator**.
-
-### Option 2 — PowerShell direct
-
-```powershell
-powershell.exe -ExecutionPolicy Bypass -NoProfile -File "USB-Forensic-Viewer.ps1"
-```
 
 ## Usage
 
